@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-LABEL maintainer="https://github.com/mrpolo17"
+LABEL maintainer="Polo Chang"
 
 ENV ROOT_PASSWORD root
 
